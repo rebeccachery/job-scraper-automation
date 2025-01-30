@@ -1,0 +1,8 @@
+beautifulsoup4
+requests
+pandas
+twilio
+selenium
+playwright
+google-auth
+google-api-python-client
